@@ -1,5 +1,6 @@
 @echo off
 echo this is fake virus.
+timeout /t 3
 cls
 title chrome setup
 echo install google chrome...
@@ -52,3 +53,4 @@ timeout /t 2 >nul
 taskkill /im powershell.exe /f
 
 exit
+
