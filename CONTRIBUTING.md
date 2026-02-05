@@ -12,9 +12,4 @@
 
 ---
 
-## זכויות יוצרים ורישיון
-השימוש בפרויקט זה כפוף לתנאי הרישיון המופיעים בקישור הבא:
-
-📄 **[LICENSE](https://giamat13.github.io/fake-virus-chrome-setup/LICENSE)**
-
 תודה על העזרה והכיבוד של זכויות היוצרים!
