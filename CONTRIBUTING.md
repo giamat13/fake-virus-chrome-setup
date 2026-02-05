@@ -5,9 +5,16 @@
 ## איך אפשר לעזור?
 
 ### 🐛 דיווח על בעיות (Issues)
-אם מצאתם באג או שיש לכם הצעה, פתחו **Issue** חדש במאגר.
+אם מצאתם באג או שיש לכם הצעה לשיפור, אתם מוזמנים לפתוח **Issue** חדש במאגר. זה עוזר לנו לעקוב ולשפר את הפרויקט לכולם.
 
-### לא לשלוח pull requests
+### 🚫 Pull Requests
+שימו לב: כרגע **אין לשלוח Pull Requests**. הקוד מנוהל באופן שנועד לשמור על זכויות היוצרים ומבנה הפרויקט, ולכן PRs לא ימוזגו.
 
+---
+
+## זכויות יוצרים ורישיון
+השימוש בפרויקט זה כפוף לתנאי הרישיון המופיעים בקישור הבא:
+
+📄 **[LICENSE](https://giamat13.github.io/fake-virus-chrome-setup/LICENSE)**
 
 תודה על העזרה והכיבוד של זכויות היוצרים!
